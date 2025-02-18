@@ -31,7 +31,7 @@ El objetivo principal de los módulos C++ del 00 al 04 es introducir a los estud
 - Herencia
 - Especificadores de acceso
 - Herencia múltiple y problema del diamante
-### Módulo 03
+### Módulo 04
 - Polimorfismo de subtipos
 - Clases abstractas e interfaces
 - Uso de la palabra clave ``virtual``
